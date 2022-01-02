@@ -16,7 +16,7 @@
 
 ### Connect with me :
 
-<a href="https://https://www.linkedin.com/in/ricardo-r-benit%C3%A9z-2219b4a2/" class="social-icon si-rounded si-small si-linkedin">
+"https://https://www.linkedin.com/in/ricardo-r-benit%C3%A9z-2219b4a2/" 
   <i class="icon-linkedin"></i>
 </a>
 
