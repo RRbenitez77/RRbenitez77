@@ -5,13 +5,13 @@
 
 
 
-- 🔭 Always thinking of the next big Idea
-- 🌱 Looking for new project to get my Keyboard Dirty
-- 👯 Looking to Collaborate with others (Teamwork makes the Dream work)
-- 🤔 2022 Goal to Work at an advanced Company 
-- 💬 creating ways to challange myself
-- 📫 ricardoramonb@outlook.com
-- 😄 Sonrisa
+#- 🔭 Always thinking of the next big Idea
+#- 🌱 Looking for new project to get my Keyboard Dirty
+#- 👯 Looking to Collaborate with others (Teamwork makes the Dream work)
+#- 🤔 2022 Goal to Work at an advanced Company 
+#- 💬 creating ways to challange myself
+#- 📫 ricardoramonb@outlook.com
+#- 😄 Sonrisa
 -->
 
 ### Connect with me :
