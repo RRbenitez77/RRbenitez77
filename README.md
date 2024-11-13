@@ -2,9 +2,9 @@
 
 <!--
 **RRbenitez77/RRbenitez77** is a ✨ _special_ ✨ repository 
-My value proposition is the combination of entrepreneurial leadership,
+<!--My value proposition is the combination of entrepreneurial leadership,
 data science expertise that enables me to deliver insights and drive business transformation.
-
+-->
 #- 🔭 Always thinking of the next big Idea
 #- 🌱 Looking for new project to get my Keyboard Dirty
 #- 👯 Looking to Collaborate with others (Teamwork makes the Dream work)
