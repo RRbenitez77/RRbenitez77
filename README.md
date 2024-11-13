@@ -18,6 +18,7 @@
 
 https://www.linkedin.com/in/ricardozet  <i class="icon-linkedin"></i>
 </a>
+<br />
 http://datasciencericardo.com/   <i class="icon"></i>
 <br />
 
