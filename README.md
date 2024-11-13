@@ -18,7 +18,8 @@
 
 https://www.linkedin.com/in/ricardozet  <i class="icon-linkedin"></i>
 </a>
-
+[
+](http://datasciencericardo.com/)
 <br />
 
 ### Languages & Tools
